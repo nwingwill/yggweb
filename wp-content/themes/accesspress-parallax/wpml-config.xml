@@ -1,0 +1,10 @@
+<wpml-config>
+    <admin-texts>
+        <key name="accesspress_parallax">
+            <key name="home_text" />
+            <key name="accesspress_parallax[custom_footer_page]" />
+            <key name="accesspress_parallax[slider_category]" />
+            <key name="accesspress_parallax[next_link]" />
+        </key>
+    </admin-texts>       
+</wpml-config>
