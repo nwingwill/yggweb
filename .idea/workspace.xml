@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46daba30-ff8f-4862-82d1-9aa13532ecd4" name="Default Changelist" comment="" />
+    <list default="true" id="46daba30-ff8f-4862-82d1-9aa13532ecd4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/04/accesspress-parallax.3.7.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/04/blaskan.3.0.1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/elementor/css/post-8.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/elementor/css/post-8.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/essential-addons-elementor/eael-post-8.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/essential-addons-elementor/eael-post-8.min.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +19,11 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZzEULqZtcQSPD0utk4j1atL77p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -20,6 +31,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -46,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585833536625</updated>
       <workItem from="1585833538267" duration="810000" />
-      <workItem from="1585834592019" duration="2247000" />
+      <workItem from="1585834592019" duration="4747000" />
     </task>
     <servers />
   </component>
