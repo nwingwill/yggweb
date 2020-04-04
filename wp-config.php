@@ -20,16 +20,28 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'yggweb' );
+//define( 'DB_NAME', 'yggweb' );
+
+/** The name of the database for WordPress Podction*/
+define( 'DB_NAME', 'li3ryzpheamj463d' );
 
 /** MySQL database username */
-define( 'DB_USER', 'root' );
+//define( 'DB_USER', 'root' );
 
-/** MySQL database password */
-define( 'DB_PASSWORD', '' );
+/** MySQL database username Production*/
+define( 'DB_USER', 'v7zgi7ik3ztdgvgq' );
 
-/** MySQL hostname */
-define( 'DB_HOST', 'localhost' );
+/** MySQL database password develop*/
+//define( 'DB_PASSWORD', '' );
+
+/** MySQL database password Production*/
+define( 'DB_PASSWORD', 'qf93tv1c8fbue7rr' );
+
+/** MySQL hostname Develop*/
+//define( 'DB_HOST', 'localhost' );
+
+/** MySQL hostname Production*/
+define( 'DB_HOST', 'g3v9lgqa8h5nq05o.cbetxkdyhwsb.us-east-1.rds.amazonaws.com' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
